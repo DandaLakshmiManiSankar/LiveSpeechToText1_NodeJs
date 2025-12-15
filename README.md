@@ -4,12 +4,12 @@
 
 LiveVoiceToText
 ├── server.js
-├── package-lock.json //download using below command
-├── package.json    //download using below command
+├── package-lock.json 
+├── package.json    
 └── views/
     └── index.ejs
 
---> npm init -y (for installing Package.json file)
+--> npm init -y (for installing Package.json file if not available)
 
 Run this inside your project folder (where package.json exists):
 
