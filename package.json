@@ -1,5 +1,5 @@
 {
-  "name": "livevoicestt1",
+  "name": "live-speech-to-text-nodejs",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
