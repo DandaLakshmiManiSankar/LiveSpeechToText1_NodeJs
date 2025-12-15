@@ -1,4 +1,13 @@
-## Live Voice To Text
+# Live Voice To Text
+
+```bash
+
+LiveVoiceToText
+├── server.js
+├── package-lock.json
+├── package.json
+└── views/
+    └── index.ejs
 
 Run this inside your project folder (where package.json exists):
 
